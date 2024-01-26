@@ -39,3 +39,12 @@ img {
   max-width: 800px;
   border-radius: 8px;
 }
+
+.email {
+  color: #6da832;
+  text-decoration: none;
+}
+
+.email:hover {
+  text-decoration: underline;
+}
