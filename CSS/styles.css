@@ -32,3 +32,10 @@ p {
   font-size: 18px;
   line-height: 1.5;
 }
+
+img {
+  display: block;
+  margin: 40px auto;
+  max-width: 800px;
+  border-radius: 8px;
+}
